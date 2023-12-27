@@ -1,0 +1,111 @@
+body{
+	margin:0px;
+	width: 100%;
+    background-color: rgb(223, 184, 155);
+    
+
+    }   
+    
+header{
+    width: 100%;
+    background-color: rgb(116, 46, 14);
+    height: 90px;
+    
+    
+}
+
+nav{
+    background-color: rgb(116, 46, 14);
+    height: 90px;
+    width: 60%;
+    padding-left: 500px;
+   
+    
+}
+#imagem{ width:600px ;
+    background-color: aqua;
+    height: 90px;
+    position: relative;right: 620px;
+}
+
+#menu13 {
+   
+    margin: 0%;
+   padding: 20px;
+   position: relative;top: -70px;left: 10px;
+   
+    }
+
+#menu13 li a {
+    
+        margin: 15px;
+        text-decoration: none;
+        height: 50px;
+        width: 200px;
+        
+        }
+
+#menu13 li a:link, #menu13 li a:visited {
+        color: rgb(41, 24, 9);
+        
+        padding: 10px;
+    }
+
+    #menu13 li a:hover, #menu13 li #current {
+        color: rgb(106,78,54);
+        background-color: bisque;
+        padding: 10px;
+        font-style: italic;
+        font-weight: bold;
+        font-size:large;
+        
+    }
+
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        }
+    
+    section {
+        width:600px;
+        height:630px;
+        background-color: lightgrey;
+        position: relative;
+        top: 50px;
+        left: 330px;
+
+
+        }  
+
+    aside {
+     width: 500px;
+     height:700px;
+     background-color: aquamarine;
+     position: relative;
+     left: 300px;
+     top: 100px;
+
+
+    }
+        
+     
+
+    footer {
+
+        width: 100%;
+        height: 90px ;
+        background-color: rgb(116, 46, 14);
+        position: relative;
+        top: 200px;
+    
+    }
+    
+    #footer{
+      width:1265px ;
+      height: 90px; ;
+      background-color: purple;
+     
+    }
+       
